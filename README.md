@@ -5,9 +5,10 @@ This is a programme to scrape tweets from twitter.com and train a model using BE
 A lot of the work in this notebook is inspired by the work of Izzy Analytics and Farzaneh F.
 
 Part 1 is the Twitter scrapper, where the tweet_text and the handle of the user are taken.
+
 NOTE: I used Chrome, so it has a "driver = Chrome()." Change them as required. Change the get_username, get_pass, and get_topic values, as well as the name of the .csv file containing tweet data. After the first installation, comment out the selenium installation line.
 
-To run part 2 and 3 you will need to download the bert base uncased model (https://huggingface.co/bert-base-cased).
+To run part 2 and 3 you will need to download the bert base cased model (https://huggingface.co/bert-base-cased).
 
 Part 2 is the preparation of the data and the model training using BERT. The model in this part runs only for one distribution of train sets and validation sets. and you can see the initial performance results (AUC score) we get from this model.
 
