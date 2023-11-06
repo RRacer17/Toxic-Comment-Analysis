@@ -1,6 +1,6 @@
 # Toxic-Comment-Analysis
 
-This is a programme to scrape tweets from twitter.com and train a model using BERT, analysing the scraped data from Twitter to classify the data into toxic, severe_toxic, obscene, threat, insult, identity_hate. The AUC score for the 5 models used in this project was 98.86, indicating a high level of accuracy in the classification process. This notebook is presented in three parts. Due to memory constraints in Kaggle, I divided the ML model into two parts.You can run either Part 2 or Part 3 independently.
+This is a college project to scrape tweets from twitter.com and train a model using BERT, analysing the scraped data from Twitter to classify the data into toxic, severe_toxic, obscene, threat, insult, identity_hate. The AUC score for the 5 models used in this project was 98.86, indicating a high level of accuracy in the classification process. This notebook is presented in three parts. Due to memory constraints in Kaggle, I divided the ML model into two parts.You can run either Part 2 or Part 3 independently.
 
 A lot of the work in this notebook is inspired by the work of Izzy Analytics and Farzaneh F.
 
