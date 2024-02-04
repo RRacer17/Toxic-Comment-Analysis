@@ -23,7 +23,6 @@ Examples of unacceptable behavior include:
 - Any other behavior that could reasonably be considered inappropriate in a professional setting.
 
 ## Enforcement Responsibilities
-
 Community leaders are responsible for upholding and enforcing our standards of behavior. They will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful. This includes the removal or moderation of comments, commits, code, and other contributions that do not align with this Code of Conduct.
 
 ## Scope
